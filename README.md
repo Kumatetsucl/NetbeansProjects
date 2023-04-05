@@ -1,2 +1,0 @@
-# NetbeansProjects
-tareas para DuocUc
